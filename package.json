@@ -3,7 +3,6 @@
     "@dendronhq/dendron-cli": "^0.104.1"
   },
   "scripts": {
-    "dendron-cli" : "dendron-cli",
-    "build" : "dendron-publish-site.sh"
+    "dendron-cli" : "dendron-cli"
   }
 }

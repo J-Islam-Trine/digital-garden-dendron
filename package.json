@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "@dendronhq/dendron-cli": "^0.104.1"
+  },
+  "scripts": {
+    "build" : "dendron-publish-site.sh"
   }
 }

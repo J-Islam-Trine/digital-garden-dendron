@@ -11,12 +11,12 @@ rm -rf docs
 #rm -rf node_modules
 
 # Install latest version of Dendron
-yarn add @dendronhq/dendron-cli@latest
+# yarn add @dendronhq/dendron-cli@latest
 # OPTIONALLY
 # Install version of Dendron from yarn.lock in workspace root
 # To use:
 # Uncomment the next line, and comment out the other `yarn install ...` line
-#yarn
+yarn
 
 # Update Dendron Next.js if needed
 (test -d .next) && (echo 'updating dendron next...' && cd .next && git reset --hard && git pull && yarn && cd ..) || (echo 'init dendron next' && yarn dendron publish init)

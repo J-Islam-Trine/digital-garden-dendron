@@ -2,5 +2,7 @@ node_modules
 .dendron.*
 build
 seeds
+docs
 .next
 pods/service-connections.next
+.backup

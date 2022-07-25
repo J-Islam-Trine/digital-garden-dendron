@@ -94,7 +94,7 @@ publishing:
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Jahirul's Dendron
+        title: Jahirul's Digital Garden
         description: A Personal Knowledge Space
     github:
         enableEditLink: false
@@ -107,4 +107,3 @@ publishing:
     enableRandomlyColoredTags: true
     enableTaskNotes: true
     enablePrettyLinks: true
-    siteUrl: {WEBSITE_URL}

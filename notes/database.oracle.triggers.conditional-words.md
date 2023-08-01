@@ -2,7 +2,8 @@
 id: jnkn15swdos72h9bajqpx2f
 title: Conditional Words
 desc: ''
-updated: 1685437343999
+tags: [RAW, Incomplete]
+updated: 1685705510343
 created: 1685431683798
 ---
 ### Conditional predicates

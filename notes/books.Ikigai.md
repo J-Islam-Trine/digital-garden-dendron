@@ -2,7 +2,8 @@
 id: u5nqfkdjrht4mkt8hdinztw
 title: Ikigai
 desc: ''
-updated: 1685691896775
+tags: [RAW]
+updated: 1685705466287
 created: 1685691547667
 ---
 ## 80 percent principle

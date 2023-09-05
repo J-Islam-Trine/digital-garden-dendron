@@ -1,8 +1,8 @@
 ---
 id: 7sur2gtka37e1f9pj2i17ui
-title: How To Connect To Mastercard Simulator
+title: How To Connect To Mastercard Simulator & Run Tests
 desc: ''
-updated: 1693817648765
+updated: 1693892959989
 created: 1693810357513
 ---
 ### Setting Up A Project
@@ -41,12 +41,26 @@ created: 1693810357513
     * Put any date before today as **effectiveDate**.
 4. Make this card **default** one.
 
+### Performing the actual test
+1. Pick the card from **Models(Bottom right section)** and pick the created card.
+2. Click on **link card to this message**.
+3. Change the **RRN** to ..... .
+4. Log in to **XXXX Bank**SSH server.
+5. List all services with `lui` command.
+6. Stop the intended servers.
+7. Log into Oracle server.
+8. Get the card details from **card** table.
+9. Get the details from accounts_link table.
 
+
+
+
+
+
+---
 **Question**
-* What does Load Balance file do?
-* What are we doing in step 6?
 * Do we need to setup keys when creating cards only?
-* Does setting up one time work for others time?
 * What is BankNet ref?
+* Do we need to fill up **EMV/other params**?
 
 
